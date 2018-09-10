@@ -1,0 +1,11 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  background-color: #F5FCFF; 
+}
+.welcome {
+  width: 100%;
+  font-size: 20;
+  text-align: center;
+  margin: 50;
+}
